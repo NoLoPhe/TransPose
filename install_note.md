@@ -18,28 +18,37 @@ Note: Pytorch and Python versions must match, must be Python version 3.9
 ## Install
 
 1. Install Pycharm
+
 2. Install Python 3.9.10
+
 ![Python 3.9](data/figures/python3.9.PNG)
+
    - Add PATH
-   
+
 3. Create project pycharm
+
 ![Pycharm create project](data/figures/pycharm_create_project.PNG)
+
    - Unzip the project
    - Enter the address in the Location field
    - Select Python 3.9.10 version
    - Create
-   
+
 4. Open terminal
+
 ![Open terminal](data/figures/copy_torch_vision.jpg)
+
    - Copy torch-1.9.1+cpu-cp39-cp39-win_amd64.whl and torchvision-0.10.1+cpu-cp39-cp39-win_amd64.whl to github project folder
    - Click Terminal (install Python library)
    - Type
      - `pip install "torch-1.9.1+cpu-cp39-cp39-win_amd64.whl`
      - `pip install "torchvision-0.10.1+cpu-cp39-cp39-win_amd64.whl"`
      - `pip install -r requirement.txt`
-   
+
 5. Run live_cpu.py
+
 ![Run live cpu](data/figures/live_cpu_1.jpg)
+
    - Status bar check is done
    - Click live_cpu.py
    - Right-click on the screen select [Run 'live_cpu']
