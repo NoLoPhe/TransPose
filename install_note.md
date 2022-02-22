@@ -41,7 +41,7 @@ Note: Pytorch and Python versions must match, must be Python version 3.9
    - Copy torch-1.9.1+cpu-cp39-cp39-win_amd64.whl and torchvision-0.10.1+cpu-cp39-cp39-win_amd64.whl to github project folder
    - Click Terminal (install Python library)
    - Type
-     - `pip install "torch-1.9.1+cpu-cp39-cp39-win_amd64.whl`
+     - `pip install "torch-1.9.1+cpu-cp39-cp39-win_amd64.whl"`
      - `pip install "torchvision-0.10.1+cpu-cp39-cp39-win_amd64.whl"`
      - `pip install -r requirement.txt`
 
