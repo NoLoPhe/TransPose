@@ -1,0 +1,4 @@
+chumpy
+vctoolkit==0.1.5.39
+open3d
+pygame
