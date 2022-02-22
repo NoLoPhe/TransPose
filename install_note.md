@@ -1,6 +1,6 @@
 # Tutorial
 
-Installation takes about 1 hour
+This tutorial installs Pytorch using CPU, the installation takes about 1 hour
 
 ## Download
 
